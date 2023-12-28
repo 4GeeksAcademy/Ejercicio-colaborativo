@@ -1,3 +1,14 @@
-body{
-    background: #BDBDBD;
+
+.principal {
+    font-size: 550%;
+    font-weight: 700;
+
+
+}
+.secundario {
+    font-size: 300%;
+
+}
+.margin {
+    margin-top: -10%;
 }
